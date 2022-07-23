@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         view.addGestureRecognizer(panGesture)
         view.addSubview(circleView)
         circleView.isHidden = true
-        view.backgroundColor = .gray
+        view.backgroundColor = .black
         
     }
     
